@@ -3,7 +3,3 @@
 - 📧 **Email:** [amar@amarchandra.com]
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/amaramaramar/]
 - 🌐 **Portfolio:** [https://www.amarchandra.com]
-
----
-
-⭐️ From [AmarsChandra](https://github.com/AmarsChandra)
